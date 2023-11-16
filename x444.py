@@ -32,7 +32,7 @@ __proxies__, __client__, __config__, __threads__= cycle(open("proxies.txt", "r")
 token = __config__["token"]
 os.system("cls") if os.name == "nt" else os.system("clear")
 
-x444_art = """
+Ayush_art = """
                                           {}__ __  __ __  __ __
                                     {}_  __/ // / / // / / // /
                                    {}| |/_/ // /_/ // /_/ // /_
